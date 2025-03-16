@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.calculator {
+    background-color:greenyellow;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.card {
+    padding: 800px;
+    margin: 20px auto;
+    max-width: 480px;
+    border-radius: 20px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    background-color: grey;
+}
+.container {
+    display: flex;
+    gap: 20px;  /* Jarak antar kolom */
+}
+.num2 {
+    margin: 10px; /* Jarak antar elemen */
+    padding: 20px; /* Ruang dalam elemen */
+    border-radius: 8px;
+}
+.btn {
+ border-color: blueviolet;
+}
+
+.card-body{
+    background-color: #09ba26;
+}
